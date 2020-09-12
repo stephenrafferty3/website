@@ -11,9 +11,19 @@ h4{
     text-align: center;
 }
 
+#main-body{
+    float: left;
+    width: 65%;
+}
+
+#main-body .h2{
+    text-align: center;
+}
+
 #twitter-feed{
     float: right;
     width: 35%;
     padding-right: 10px;
+    box-sizing: border-box;
     
 }
