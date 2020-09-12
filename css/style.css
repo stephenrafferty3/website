@@ -1,0 +1,19 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    text-align: center;
+}
+
+h4{
+    font-size: 8px;
+    text-align: center;
+}
+
+#twitter-feed{
+    float: right;
+    width: 35%;
+    padding-right: 10px;
+    
+}
