@@ -33,6 +33,7 @@ h4{
 
 @media screen and (max-width:459px){
     #twitter-feed{
+        visibility: hidden;
         width: 50%;
         float: right;
     }
