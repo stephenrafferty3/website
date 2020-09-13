@@ -30,11 +30,12 @@ h4{
     box-sizing: border-box;
 }
 
-@media screen and (max-width:459px){
+@media screen and (max-width:890px){
     #twitter-feed{
         width: 100%;
         text-align: center;
         padding: 15px;
+        white-space: nowrap;
     }
 
     #main-body{
