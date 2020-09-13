@@ -12,13 +12,12 @@ h4{
 }
 
 #body-div{
-    position: relative;
     width: 100%;
 }
 
 #main-body{
     float: left;
-    width: 60%;
+    width: 80%;
 }
 
 #main-body .h2{
@@ -27,15 +26,15 @@ h4{
 
 #twitter-feed{
     float: right;
-    width: 40%;
+    width: 20%;
     box-sizing: border-box;
 }
 
 @media screen and (max-width:459px){
     #twitter-feed{
         width: 100%;
+        text-align: center;
         padding: 15px;
-
     }
 
     #main-body{
